@@ -109,7 +109,9 @@ pip install -r requirements.txt
 ## 📈 Visualizations
 
 WordClouds for spam and ham messages
+
 Pie chart showing spam vs ham distribution
+
 Model comparison plot (accuracy, precision)
 
 
