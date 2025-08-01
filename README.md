@@ -103,6 +103,8 @@ Each model is evaluated using:
 git clone https://github.com/Soumaditya777/Spam-Email-Classifier.git
 cd spam-email-classifier
 pip install -r requirements.txt
+```
+
 
 ## 📈 Visualizations
 
